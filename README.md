@@ -1,16 +1,13 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**taufikharahap/taufikharahap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Taufik Hidayat Harahap**.\
 
-Here are some ideas to get you started:
+Saya seorang freelancer **Web Developer**\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya mempunyai beberapa sertifikat bahasa pemrograman yang saya peroleh dari  [Dicoding](https://www.dicoding.com).\
+
+Saya memiliki beberapa project yang dapat dilihat di repository saya\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/taufik-hidayat-harahap-444325155/) ku ya.
+
+
