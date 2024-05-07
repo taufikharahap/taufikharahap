@@ -2,9 +2,11 @@
 
 Perkenalkan nama saya **Taufik Hidayat Harahap**.  
 
-Saya seorang freelancer **Web Developer**  
+Saya seorang freelancer **Fullstack Web Developer**
 
-Saya mempunyai beberapa sertifikat bahasa pemrograman yang saya peroleh dari  [Dicoding](https://www.dicoding.com).  
+Saya lulusan bootcamp fullstack web dan golang di [Fazztrack](https://www.fazztrack.com/).
+
+Saya juga mempunyai beberapa sertifikat bahasa pemrograman yang saya peroleh dari  [Dicoding](https://www.dicoding.com).  
 
 Saya memiliki beberapa project yang dapat dilihat di repository saya  
 
